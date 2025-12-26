@@ -1,0 +1,48 @@
+-- Day 01: Introduction to SQL
+
+-- What is Data?
+-- Data can be text, numbers, images, videos, or documents.
+-- Any raw fact or information is called data.
+
+-- What is Database?
+-- A database is a collection of data stored in an organized way.
+-- Databases help in storing and managing large amounts of data.
+
+-- What is SQL?
+-- SQL stands for Structured Query Language.
+-- SQL is used to interact with databases.
+-- It is not a programming language, it is a query language.
+
+-- Why we use SQL?
+-- Simplifies working with large database
+-- Enables easy and Efficient data management
+-- SQL is universal & work with most database system.
+-- To retrieve data
+-- To update data
+-- To delete data
+-- Applicable on relational database(data stored in table format)
+
+-- Where SQL is used?
+-- Data Analyst
+-- Data Scientist
+-- Business Analyst
+-- Backend Developer
+-- SQL Developer
+
+-- Purpose of storing Data in Database
+-- Easily accessed
+-- Modified
+-- Protected
+-- Analyzed
+
+-- What are Queries?
+-- Queries are commands used to retrieve, insert, update,
+    or delete data stored in a database.
+-- Imagine a shop register (database).
+    Asking the shopkeeper to show products, add new items,
+    change prices, or remove expired items is similar to writing queries.
+
+-- Example of SQL Queries:
+-- SELECT query:
+SELECT * FROM students;
+-- Used to fetch data from a table.
